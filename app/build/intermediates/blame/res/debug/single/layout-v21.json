@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\01eaa10874b1d7cae461a6dd424246cce27b0a83\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\01eaa10874b1d7cae461a6dd424246cce27b0a83\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\01eaa10874b1d7cae461a6dd424246cce27b0a83\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\01eaa10874b1d7cae461a6dd424246cce27b0a83\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

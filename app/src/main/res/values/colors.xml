@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="redishShadow">#e93131</color>
+    <color name="redish">#f57373</color>
+
+    <!-- colors for each letter-->
+    <color name="red_a">#e43333</color>
+    <color name="blue_b">#537ae7</color>
+    <color name="green_c">#6fe75f</color>
+    <color name="aqua_d">#1e8378</color>
+    <color name="brown_e">#b65f20</color>
+    <color name="black_f">#292626</color>
+    <color name="yellow_g">#e6ec34</color>
+    <color name="grey_h">#938d8d</color>
+    <color name="orange_i">#e7a53c</color>
+    <color name="pink_j">#ed5aeb</color>
+    <color name="purple_k">#9641d2</color>
+    <color name="voilet_l">#410b7b</color>
+    <color name="indigo_m">#4F69C6</color>
+    <color name="copper_n">#B87333</color>
+    <color name="emeralad_o">#50C878</color>
+    <color name="gold_p">#FFD700</color>
+    <color name="lemon_q">#FDE910</color>
+    <color name="magenta_r">#FF00FF</color>
+    <color name="musturd_s">#FFDB58</color>
+    <color name="white_t">#3b2121</color>
+    <color name="peach_u">#FFE5B4</color>
+    <color name="rolayblue_v">#4169E1</color>
+    <color name="navyblue_w">#000080</color>
+    <color name="shockingpink_x">#FC0FC0</color>
+    <color name="skyblue_y">#76D7EA</color>
+    <color name="silver_z">#6e6d6d</color>
+</resources>

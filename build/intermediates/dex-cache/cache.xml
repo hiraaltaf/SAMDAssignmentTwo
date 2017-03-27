@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fazila\Downloads\ListView_TestingThree\CustomListView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Fazila\Downloads\ListView_TestingThree\CustomListView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0940e6a9afe8c818b8c6b55edd73d417b6e0bd9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fazila\Downloads\ListView_TestingThree\CustomListView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8ccf053180acdd070d09a72e9d644d367978c45">
+        <dex dex="C:\Users\Fazila\Downloads\ListView_TestingThree\CustomListView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c7d94231b7ade3ef0d75dfcdd241861983c8df3e\classes.dex" />
+    </item>
+
+</items>

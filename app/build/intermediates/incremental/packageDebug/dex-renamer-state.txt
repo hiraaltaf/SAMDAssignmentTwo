@@ -1,0 +1,7 @@
+#Mon Mar 27 16:31:34 PKT 2017
+base.0=C\:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c7d94231b7ade3ef0d75dfcdd241861983c8df3e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0940e6a9afe8c818b8c6b55edd73d417b6e0bd9f\\classes.dex
+base.1=C\:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0940e6a9afe8c818b8c6b55edd73d417b6e0bd9f
+file.0=C\:\\Users\\Fazila\\Downloads\\ListView_TestingThree\\CustomListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c7d94231b7ade3ef0d75dfcdd241861983c8df3e\\classes.dex
